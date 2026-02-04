@@ -35,9 +35,9 @@ Key steps included:
 - Removing redundant columns
 - Uploading cleaned data into MySQL using SQLAlchemy
 
-![Python Data Cleaning](python/screenshots/Data_Cleaning & Manipulation.png)
+![Python Data Cleaning](python/screenshots/Missing_Values_Check.png)
 
-📁 Code location: `python/customer_shopping_behavior.py`
+📁 Code location: `python/customer_shopping_behavior.ipynb`
 
 ---
 
