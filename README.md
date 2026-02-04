@@ -1,107 +1,110 @@
-📊 Customer Behavior Analysis Project
-📌 Project Overview
+# 📊 Customer Behavior Analysis Project
 
-This project analyzes customer shopping behavior to uncover purchasing patterns, revenue drivers, and customer segments.
-The analysis combines Python, SQL, and Power BI to demonstrate an end-to-end data analytics workflow — from data cleaning to business insights visualization.
+![Customer Behavior Dashboard](power_bi/screenshots/dashboard_overview.png)
 
-🛠 Tools & Technologies
+## 📌 Project Overview
+This project analyzes customer shopping behavior to uncover purchasing patterns, revenue drivers, and customer segments.  
+It demonstrates an **end-to-end data analytics workflow** using **Python, SQL, and Power BI**, transforming raw data into actionable business insights.
 
-Python: Pandas, SQLAlchemy, PyMySQL
+The project is designed to reflect **real-world analytics tasks** typically performed by junior data analysts.
 
-SQL: MySQL
+---
 
-Power BI: Interactive dashboard & KPI analysis
+## 🛠 Tools & Technologies
+- **Python**: Pandas, SQLAlchemy, PyMySQL  
+- **SQL**: MySQL  
+- **Power BI**: Interactive dashboards & KPIs  
 
-🔄 Workflow
+---
 
-Data Cleaning & Transformation (Python)
+## 🔄 Project Workflow
+![Project Workflow](assets/workflow.png)
 
-Database Design & Analysis (SQL)
+**Data Source → Python Cleaning → MySQL Analysis → Power BI Visualization**
 
-Business Insights Visualization (Power BI)
+---
 
-🐍 Python – Data Cleaning & Preparation
+## 🐍 Python – Data Cleaning & Preparation
+Python was used to clean, transform, and prepare the dataset for analysis.
 
-Key tasks performed:
+Key steps included:
+- Loading and exploring the dataset
+- Handling missing values using median imputation
+- Standardizing column names
+- Creating age group segments using quantile binning
+- Removing redundant columns
+- Uploading cleaned data into MySQL using SQLAlchemy
 
-Loaded and explored customer shopping data
+![Python Data Cleaning](python/screenshots/python_overview.png)
 
-Handled missing values using median imputation
+📁 Code location: `python/data_cleaning_and_preprocessing.py`
 
-Standardized column names
+---
 
-Created customer age groups using quantile binning
+## 🗄 SQL – Business Analysis
+SQL queries were written to answer real business questions such as:
 
-Removed redundant fields
+- What is the revenue split by gender?
+- Do subscribed customers spend more than non-subscribers?
+- Which products receive the highest customer ratings?
+- How do discounts affect purchasing behavior?
+- How are customers segmented (New, Returning, Loyal)?
+- Which age groups contribute the most revenue?
 
-Uploaded cleaned data into MySQL using SQLAlchemy
+![SQL Analysis Output](sql/screenshots/sql_gender_revenue.png)
 
-📸 Python workflow screenshots:
-(See python/screenshots/ folder)
+📁 Queries available in: `sql/customer_analysis_queries.sql`
 
-🗄 SQL – Business Analysis Queries
+---
 
-Key business questions answered:
+## 📈 Power BI – Interactive Dashboard
+An interactive Power BI dashboard was developed to visualize key metrics and trends, including:
 
-Revenue comparison by gender
+- Total customers, average purchase amount, and average review rating
+- Revenue and sales by product category
+- Subscription status distribution
+- Revenue and sales by age group
+- Dynamic filtering by gender, category, subscription status, and shipping type
 
-Impact of discounts on spending behavior
+### Key Dashboard Insights
 
-Top products by customer rating
+**Revenue by Category**
+![Revenue by Category](power_bi/screenshots/revenue_by_category.png)
 
-Spending behavior of subscribed vs non-subscribed customers
+**Subscription Analysis**
+![Subscription Analysis](power_bi/screenshots/subscription_analysis.png)
 
-Customer segmentation (New, Returning, Loyal)
+**Revenue by Age Group**
+![Revenue by Age Group](power_bi/screenshots/revenue_by_age_group.png)
 
-Revenue contribution by age group
+📁 Dashboard screenshots available in: `power_bi/screenshots/`
 
-Most purchased products per category
+---
 
-📸 SQL query screenshots:
-(See sql/screenshots/ folder)
+## 🔍 Key Insights
+- Clothing generates the highest revenue and sales volume
+- Subscribed customers show higher average spending
+- Young adults contribute the largest share of total revenue
+- Discounts significantly influence purchasing behavior for selected products
+- Loyal customers represent a smaller group but contribute disproportionately to revenue
 
-📈 Power BI – Interactive Dashboard
+---
 
-An interactive dashboard was built to visualize:
-
-Total customers, average purchase value, and average rating
-
-Revenue and sales by category
-
-Customer distribution by subscription status
-
-Revenue and sales trends by age group
-
-Dynamic filtering by gender, category, subscription, and shipping type
-
-📸 Power BI dashboard screenshots:
-(See power_bi/screenshots/ folder)
-
-🔍 Key Insights
-
-Clothing generates the highest revenue and sales volume
-
-Subscribed customers show higher average spending
-
-Young adults contribute the largest share of revenue
-
-Discounts significantly influence purchasing behavior for selected products
-
-🚀 Outcome
-
+## 🚀 Outcome
 This project demonstrates:
+- Strong data cleaning and preprocessing skills
+- Practical SQL analysis aligned with business questions
+- Ability to design clear, interactive Power BI dashboards
+- End-to-end analytics thinking from raw data to insights
 
-Strong data cleaning and transformation skills
+It is suitable for showcasing **job-ready data analytics skills** in a portfolio or technical interview.
 
-Practical SQL analysis for business questions
+---
 
-Ability to translate data into actionable insights using Power BI
+## 📬 Contact
+**Tshedza Tshipuke**  
+Aspiring Data Analyst  
 
-End-to-end analytics workflow suitable for real-world business scenarios
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile
 
-📬 Contact
-
-Tshedza Tshipuke
-Aspiring Data Analyst
-GitHub: (your profile link here)
-LinkedIn: (optional but recommended)
