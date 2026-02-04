@@ -1,6 +1,6 @@
 # 📊 Customer Behavior Analysis Project
 
-![Customer Behavior Dashboard](power_bi/screenshots/dashboard_overview.png)
+![Customer Behavior Dashboard](power_bi/dashboard_overview.png)
 
 ## 📌 Project Overview
 This project analyzes customer shopping behavior to uncover purchasing patterns, revenue drivers, and customer segments.  
