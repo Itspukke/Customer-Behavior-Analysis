@@ -6,7 +6,6 @@
 This project analyzes customer shopping behavior to uncover purchasing patterns, revenue drivers, and customer segments.  
 It demonstrates an **end-to-end data analytics workflow** using **Python, SQL, and Power BI**, transforming raw data into actionable business insights.
 
-The project is designed to reflect **real-world analytics tasks** typically performed by junior data analysts.
 
 ---
 
