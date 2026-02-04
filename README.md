@@ -79,12 +79,14 @@ An interactive Power BI dashboard was developed to visualize key metrics and tre
 
 ---
 
-## 🔍 Key Insights
-- Clothing generates the highest revenue and sales volume
-- Subscribed customers show higher average spending
-- Young adults contribute the largest share of total revenue
-- Discounts significantly influence purchasing behavior for selected products
-- Loyal customers represent a smaller group but contribute disproportionately to revenue
+## 🔍 Business Recomendations
+- Boost Subscriptions – Promote exclusive benefits for subscribers
+- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal”
+segment.
+- Review Discount Policy – Balance sales boosts with margin control
+- Product Positioning – Highlight top-rated and best-selling products in campaigns.
+- Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping
+users
 
 ---
 
