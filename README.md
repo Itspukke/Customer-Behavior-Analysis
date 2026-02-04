@@ -18,7 +18,7 @@ The project is designed to reflect **real-world analytics tasks** typically perf
 ---
 
 ## 🔄 Project Workflow
-![Project Workflow](as)
+![Project Workflow](diagram.png)
 
 **Data Source → Python Cleaning → MySQL Analysis → Power BI Visualization**
 
