@@ -35,9 +35,9 @@ Key steps included:
 - Removing redundant columns
 - Uploading cleaned data into MySQL using SQLAlchemy
 
-![Python Data Cleaning](python/screenshots/python_overview.png)
+![Python Data Cleaning](python/screenshots/Data_Cleaning & Manipulation.png)
 
-📁 Code location: `python/data_cleaning_and_preprocessing.py`
+📁 Code location: `python/customer_shopping_behavior.py`
 
 ---
 
@@ -51,9 +51,9 @@ SQL queries were written to answer real business questions such as:
 - How are customers segmented (New, Returning, Loyal)?
 - Which age groups contribute the most revenue?
 
-![SQL Analysis Output](sql/screenshots/sql_gender_revenue.png)
+![SQL Analysis Output](sql/screenshots/revenue_by_gender.png)
 
-📁 Queries available in: `sql/customer_analysis_queries.sql`
+📁 Queries available in: `sql/customer_shopping_behavior.sql`
 
 ---
 
@@ -69,15 +69,14 @@ An interactive Power BI dashboard was developed to visualize key metrics and tre
 ### Key Dashboard Insights
 
 **Revenue by Category**
-![Revenue by Category](power_bi/screenshots/revenue_by_category.png)
+![Revenue by Category](power_bi/revenue_by_category.png)
 
 **Subscription Analysis**
-![Subscription Analysis](power_bi/screenshots/subscription_analysis.png)
+![Subscription Analysis](power_bi/subscription_analysis.png)
 
-**Revenue by Age Group**
-![Revenue by Age Group](power_bi/screenshots/revenue_by_age_group.png)
 
-📁 Dashboard screenshots available in: `power_bi/screenshots/`
+
+📁 Dashboard screenshots available in: `power_bi`
 
 ---
 
