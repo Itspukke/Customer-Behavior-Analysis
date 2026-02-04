@@ -105,7 +105,7 @@ users
 **Tshedza Tshipuke**  
 Aspiring Data Analyst  
 
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/Itspukke 
 - LinkedIn: www.linkedin.com/in/tshedza-tshipuke-468516119
 
 
