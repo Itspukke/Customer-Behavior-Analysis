@@ -96,7 +96,6 @@ This project demonstrates:
 - Ability to design clear, interactive Power BI dashboards
 - End-to-end analytics thinking from raw data to insights
 
-It is suitable for showcasing **job-ready data analytics skills** in a portfolio or technical interview.
 
 ---
 
@@ -105,5 +104,6 @@ It is suitable for showcasing **job-ready data analytics skills** in a portfolio
 Aspiring Data Analyst  
 
 - GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: www.linkedin.com/in/tshedza-tshipuke-468516119
+
 
