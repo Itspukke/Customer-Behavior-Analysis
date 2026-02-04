@@ -82,25 +82,16 @@ An interactive Power BI dashboard was developed to visualize key metrics and tre
 ---
 
 ## 🔍 Business Recomendations
-- Boost Subscriptions – Promote exclusive benefits for subscribers
-- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal”
+- **Boost Subscriptions** – Promote exclusive benefits for subscribers
+- **Customer Loyalty Programs** – Reward repeat buyers to move them into the “Loyal”
 segment.
-- Review Discount Policy – Balance sales boosts with margin control
-- Product Positioning – Highlight top-rated and best-selling products in campaigns.
-- Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping
+- **Review Discount Policy** – Balance sales boosts with margin control
+- **Product Positioning** – Highlight top-rated and best-selling products in campaigns.
+- **Targeted Marketing** – Focus efforts on high-revenue age groups and express-shipping
 users
 
 ---
 
-## 🚀 Outcome
-This project demonstrates:
-- Strong data cleaning and preprocessing skills
-- Practical SQL analysis aligned with business questions
-- Ability to design clear, interactive Power BI dashboards
-- End-to-end analytics thinking from raw data to insights
-
-
----
 
 ## 📬 Contact
 **Tshedza Tshipuke**  
