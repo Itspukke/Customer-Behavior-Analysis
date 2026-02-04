@@ -5,6 +5,7 @@
 ## 📌 Project Overview
 This project analyzes customer shopping behavior to uncover purchasing patterns, revenue drivers, and customer segments. The organization needed to make data-driven decisions to improve revenue performance, customer retention, and subscription growth.
 However, a lack of consolidated analysis across customer demographics, purchasing behavior, discounts, and shipping preferences made it difficult to identify high-value segments and optimize marketing strategies. 
+
 It demonstrates an **end-to-end data analytics workflow** using **Python, SQL, and Power BI**, transforming raw data into actionable business insights.
 
 
